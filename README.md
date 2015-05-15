@@ -1,7 +1,7 @@
 Latex + extras
 ==============
 
-*/!\ Disclosure: this image is only a very tight modification of [agonzalezro/docker-pdflatex](https://github.com/agonzalezro/docker-pdflatex.git) image in order to be able to use external files in the buid directory /!\*
+*:warning: Disclosure: this image is only a very tight modification of [agonzalezro/docker-pdflatex](https://github.com/agonzalezro/docker-pdflatex.git) image in order to be able to use external files in the buid directory :warning:*
 
 This image contains LaTeX and some extras as more fonts and packages as
 moderncv.
