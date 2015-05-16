@@ -10,6 +10,6 @@ There is a volume `/output` where the generated files are going to be stored and
 
 An example of usage could be:
 
-    docker run --rm -v /tmp:/output agonzalezro/pdflatex document.tex
+    docker run --rm -v /tmp:/output erwyn/pdflatex document.tex
 
 If your `document.tex` file links to an image file for instance, this one must be in the folder mounted to `/output` thus `/tmp` in this example.
